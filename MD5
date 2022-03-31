@@ -1,0 +1,17 @@
+0ccef36f22850b6fb8bec11c5d759ea1 *DESCRIPTION
+e8eed56d73995334fd1e5397ce0ea1d8 *LICENSE
+d8aaa6b7c0a9d04be995bf9b347c6e85 *NAMESPACE
+cee4db6404e7854666d52831ea315672 *R/picker.R
+0a155f2f74eb50eeaf46a4eb0868e992 *R/proxy.R
+6e858d3dfe3dfb2ead0abf84cb0fe6d9 *README.md
+4b1491e8db48594a69f96cdc19b8904f *inst/extdata/pbmcs.rda
+7968852e6d3040add7ef17036a6d806c *inst/htmlwidgets/deps.yaml
+5ea4a8959cdfcac56a2b78af5f60dd42 *inst/htmlwidgets/lib/deckgl/dist.min.js
+695b30b20faad132df7fd2ef3841ba19 *inst/htmlwidgets/lib/deckgl/get-deckgl.sh
+b362253c6c3a13492c88b45a153c10f5 *inst/htmlwidgets/lib/widget/picker.min.js
+61347cd4286da569531f526103ae395b *inst/htmlwidgets/lib/widget/picker.min.js.LICENSE.txt
+b33b27677968d038d39b0757664b51c4 *inst/htmlwidgets/picker.yaml
+a5afe334d39fdbbd9e1fd45ef9f162f0 *man/picker-shiny.Rd
+707bb31fb049080f2c1daf6f7cefb5ea *man/picker.Rd
+d993de3a19a3ac0860822845895b55cc *man/picker_proxy.Rd
+964a09a11ccc469c5e0ad2d26c846a0d *man/update_picker.Rd
